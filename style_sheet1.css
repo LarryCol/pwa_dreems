@@ -1,0 +1,15 @@
+html {
+  background-color: #d6d8e8;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+ul {
+  background: red;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
