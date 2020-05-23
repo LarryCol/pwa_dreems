@@ -1,0 +1,23 @@
+{
+  "name": "Dreems-app",
+  "version": "1.0.0",
+  "description": "a new world",
+  "main": "myscripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sw-precache": "sw-precache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunShiv/stick-it-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "sw-precache": "^5.2.1"
+  }
+}
