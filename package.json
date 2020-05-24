@@ -5,11 +5,11 @@
   "main": "myscripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sw-precache": "sw-precache"
+    // "sw-precache": "sw-precache"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tharunShiv/stick-it-notes.git"
+    "url": "https://github.com/LarryCol/pwa_dreems.git"
   },
   "author": "",
   "license": "ISC",
