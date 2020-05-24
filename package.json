@@ -2,20 +2,14 @@
   "name": "Dreems-app",
   "version": "1.0.0",
   "description": "a new world",
-  "main": "myscripts.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/LarryCol/pwa_dreems.git"
   },
-  "author": "",
+  "author": "admax",
   "license": "ISC",
   "bugs": {
     "url": ""
   },
-  "homepage": "",
-  "dependencies": {
-  }
+  "homepage": ""
 }
