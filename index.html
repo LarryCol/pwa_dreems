@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8"/>
-	<title>dreem app</title>
+	<title>Dreem app</title>
 	<meta name="viewport" content="width = device-width, initial-scale = 1.0"/>
 	<link rel="manifest" href="manifest.json">
 	<!-- <script type="text/javascript" src="myscript.js"></script> -->
@@ -22,7 +22,8 @@
 			box-sizing: border-box;
 		}
 		.header{
-
+			background-color: #c5de7c; /*RGB - 197, 222, 124*/
+			color: #ffffff;
 		}
 		.menu {
 			width: 25%;
@@ -32,17 +33,31 @@
 			width: 75%;
 			float: left;
 		}
+		.menu ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		.menu li {
+			padding: 5px;
+			margin-bottom: 7px;
+			background-color: #e6b567; /*RGB - 230, 181, 103*/
+			color: #473131;
+		}
+		.menu li:hover {
+			background-color: #b58f57 /*RGB - 181, 143, 87*/
+		}
 	</style>
 
 
 </head>
-<body>
+<body style="background-color: #c5e3de;">
 	<div class="header">
 		<h2>DREEMS Academy</h2>
 	</div>
 	<div class="menu">
 		<ul>
-			<li>About us</li>
+			<li><a href="about_us.html" target="_blank" title="About us">About us</a></li>
 			<li>Students</li>
 			<li>Parents</li>
 			<li>Contact us</li>
