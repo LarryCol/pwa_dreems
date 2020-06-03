@@ -1,6 +1,7 @@
 {
 	"name": "Dreems-app",
-	"short_name": "Dreem",
+	"short_name": "Dreems",
+	"description":"From DREEMS Academy, kollam",
 	"start_url": "index.html",
 	"scope": "./",
 	"icons": [
